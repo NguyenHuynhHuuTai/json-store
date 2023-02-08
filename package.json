@@ -1,14 +1,13 @@
 {
 	"name": "json-store",
-	"version": "8.1.0",
+	"version": "0.1.1",
 	"description": "Simple data persistence for your project or module - Save and load user preferences, app state, cache, etc",
 	"license": "MIT",
 	"repository": "NguyenHuynhHuuTai/json-store",
 	"funding": "https://github.com/NguyenHuynhHuuTai",
 	"author": {
 		"name": "Nguyen Huynh Huu Tai",
-		"email": "nguyenhuynhhuutaitv@gmail.com",
-		"url": " "
+		"email": "nguyenhuynhhuutaitv@gmail.com"
 	},
 	"scripts": {
 		"test": "xo && ava && tsd"
