@@ -1,6 +1,6 @@
 {
 	"name": "json-store",
-	"version": "0.1.1",
+	"version": "0.0.1",
 	"description": "Simple data persistence for your project or module - Save and load user preferences, app state, cache, etc",
 	"license": "MIT",
 	"repository": "NguyenHuynhHuuTai/json-store",

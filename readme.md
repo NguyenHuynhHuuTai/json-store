@@ -1,10 +1,16 @@
+>This file create by [HuuTai.Nguyen](https://fb.com/huutai.99)
+
 # json-store
 
 > Simple data persistence for your project or module - Save and load user preferences, app state, cache, etc
 
 ---
 
-<br>
+## Note
+
+> The package json-store is generated from the package [electron-store](https://github.com/sindresorhus/electron-store). Eliminate dependency on Electron.
+
+---
 
 ## Install
 
